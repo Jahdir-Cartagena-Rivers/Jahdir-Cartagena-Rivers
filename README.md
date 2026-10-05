@@ -1,6 +1,6 @@
 # Hey, I'm Jah'dir Cartagena-Rivers 👋
 
-Mechanical engineering student at **Temple University** who builds software for problems I actually have. Right now that's **[J1 Code](https://github.com/Jahdir-Rivers/J1Code)**, a desktop home for AI coding agents.
+Mechanical engineering student at **Temple University** who builds software for problems I actually have. Right now that's **[J1 Code](https://github.com/Jahdir-Cartagena-Rivers/J1Code)**, a desktop home for AI coding agents.
 
 ### 🧰 Toolbox
 
@@ -11,7 +11,7 @@ Mechanical engineering student at **Temple University** who builds software for 
 
 ### 🚀 What I'm working on
 
-- **[J1 Code](https://github.com/Jahdir-Rivers/J1Code)** — my fork of T3 Code adding cross-provider agent delegation, shared memory, and desktop, web, and mobile clients. *(TypeScript, Electron, React, MCP)*
+- **[J1 Code](https://github.com/Jahdir-Cartagena-Rivers/J1Code)** — my fork of T3 Code adding cross-provider agent delegation, shared memory, and desktop, web, and mobile clients. *(TypeScript, Electron, React, MCP)*
 - **Gyromi** — manga, light novels, audiobooks, and video in one Windows/Android app with offline-first sync. *(Flutter, Dart, Rust)*
 - **Auto Apply** — collects internship postings and drafts applications with Playwright; nothing is submitted until I review it. *(Python, FastAPI, React)*
 - **Media Classifier** — sorts a large media library by scoring CLIP similarity, OCR watermarks, and filename matches. *(Python, PyTorch, OpenCV)*
